@@ -2,6 +2,9 @@
 
 <img src="./media/header.jpg">
 
+## Link to Video
+[https://www.youtube.com/channel/UCNVeVqoogFUB_Y77LPI9flA](https://youtu.be/sELvGaZdiQs)
+
 ## Description
 
 An important part of any computer graphics course, in my opinion, is having the opportunity to build a project that you care about. The final project in this course showcases your creativity from what you have learned over the semester and can be used as a portfolio piece for future internship, co-op, and full-time job opportunities.  We have covered enough computer graphics now that you are ready to design and create a project from scratch.
