@@ -1,9 +1,10 @@
 *TODO*: Please edit the following information in your final project
 
 ## Edit this line: Put your link to your youtube video here (see deliverables).
+https://youtu.be/sELvGaZdiQs
 
 ## Edit this line: Put a few screenshots of your project here (see deliverables).
-
+![screenshot](https://user-images.githubusercontent.com/77710322/185726054-ff603e6c-f549-4d9e-aba4-81c046875628.png)
 
 * Name: 
   * Team member 1: Luke Van Der Male
