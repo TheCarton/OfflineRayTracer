@@ -6,15 +6,16 @@
 
 
 * Name: 
-  * Team member 1: *edit this*
-* How many hours did it take you to complete this final project? 
+  * Team member 1: Luke Van Der Male
+* How many hours did it take you to complete this final project? ~16
 * Did you collaborate or share ideas with any other students/TAs/Professors?
 * Did you use any external resources? 
   * Note it is fair to utilize some tutorials--cite them here. You **must** add your own personal touch however!
-  * *edit this*
-  * *edit this*
-  * *edit this*
+  * Rust 1.63.0 https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html
+  * Rust Book
+  * chris biscardi https://www.youtube.com/watch?v=VsIicvwf_Yc&lc=UgyfvYtcqaa0l5a4PI54AaABAg
   * (Optional) What was the most interesting part of the Final Assignment? How could the instructor improve the final project?
+  Messing with multiple threads was super fun! Messing up the indexes into the final array was less fun.
 
 ### Rubric
 
