@@ -1,0 +1,17 @@
+Add concurrency to ray caster.
+
+For chunk in image spawn a thread {
+    Give the thread the chunk's location.
+
+    Get the RGB values for that chunk.
+}
+
+For each of the threads {
+    Put the RBG values in the correct location for that chunk.
+}
+
+Output the image.
+
+height 225
+width 400
+vec size 270000
