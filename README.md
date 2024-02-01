@@ -1,3 +1,6 @@
+An offline ray tracing render in Rust following the Peter Shirley Ray Tracing book. It features Bounding Volume Hierarchies, reflective materials, anti-aliasing, and gamma correction. I also added multi-threading to improve performance by more than 50% by performing redundant work simultaneously.
+
+
 ## Presentation of project on YouTube
 https://www.youtube.com/watch?v=C5zYlwPD0vc
 
@@ -9,5 +12,3 @@ Works Cited:
   * Rust 1.63.0 https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html
   * Rust Book
   * chris biscardi https://www.youtube.com/watch?v=VsIicvwf_Yc&lc=UgyfvYtcqaa0l5a4PI54AaABAg
-  * (Optional) What was the most interesting part of the Final Assignment? How could the instructor improve the final project?
-  Messing with multiple threads was super fun! Messing up the indexes into the final array was less fun.
